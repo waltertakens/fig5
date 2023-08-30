@@ -5,8 +5,8 @@ demo software for blog: https://forum.samenmeten.nl/t/samenrekenen-op-het-rivm-d
 
 files:
 
-	fig5again.py: pandas python source
+	fig5again.py: pandas python source with hardcoded inputfile 2022_PM25.csv.org
 
-	2022_PM25.csv.org: 2022 year data downloaded from rivm
+	2022_PM25.csv.org: 2022 year data downloaded from rivm :https://data.rivm.nl/data/luchtmeetnet/
  
-	fig5again.txt stdout output of fig5again.py
+	fig5again.txt: stdout output when running fig5again.py
